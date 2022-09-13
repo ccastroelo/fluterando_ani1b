@@ -1,16 +1,9 @@
-# ani1a
+# ani1b
 
-A new Flutter project.
+Curso Fluterando
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Exercício de animações implicitas
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![caption](https://github.com/ccastroelo/fluterando_ani1b/blob/main/ani1b.gif)
